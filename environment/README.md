@@ -90,3 +90,4 @@ This script installs the JupyterLab extensions, and is run by the `Dockerfile`.
 This is where you can make changes to the Jupyter server configuration. By default, it sets the JupyterLab UI to launch in the `analysis` folder of the main project and removes server authentication since this project is only meant to be run on a researcher's computer and not in a shared or production environment.
 
 
+Have fun!
